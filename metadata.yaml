@@ -1,0 +1,31 @@
+_repo: Il-Numero-13_67941
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farina, Salvatore
+    birthdate: 1846
+    deathdate: 1918
+    gutenberg_agent_id: '7674'
+    url: http://www.gutenberg.org/2009/agents/7674
+    wikipedia:
+    - https://it.wikipedia.org/wiki/Salvatore_Farina
+    - https://en.wikipedia.org/wiki/Salvatore_Farina
+description: ''
+gutenberg_issued: '2022-04-27'
+identifiers:
+  gutenberg: '67941'
+language: it
+pgterms:marc904: https://archive.org/details/ilnumero13raccon00fariuoft/page/4
+pgterms:marc905: 20190815020644farina
+pgterms:marc906: '1895'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: Italy :Galli,1895.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Il Numero 13
+url: http://www.gutenberg.org/ebooks/67941
